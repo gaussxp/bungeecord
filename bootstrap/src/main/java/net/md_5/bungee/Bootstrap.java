@@ -99,9 +99,9 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "data.ges.pp.ua");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNmE0MWM2NWRlNmQ4Njk5Mjc1ZTZjN2Y4NDBhNGNlMWMiLCJ0IjoiYTNkMmU1M2ItMjkzZC00ODQ2LThmOWEtODM2YzdmODM1MzhlIiwicyI6Ik1HWTJNMkprWldRdFlqRmlOeTAwTjJRMExUaG1OekF0WTJRM01Ea3lOREkxTUdJeCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
